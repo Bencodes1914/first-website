@@ -5,6 +5,7 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: #7d7d7d;
 }
 
 header {
@@ -56,7 +57,7 @@ header nav a {
 
 .logo{
     color: white;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 0.5rem;
     margin-left: 20px;
 }
