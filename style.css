@@ -71,12 +71,18 @@ header nav a {
     color: #007bff;
     transition: color 0.2s ease-in-out;
   }
-  section {
+.section {
     padding: 1em;
 }
 
 h1, h2 {
     color: #333;
+}
+
+#home{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 button {
