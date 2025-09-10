@@ -134,11 +134,17 @@ h1{
   align-items: center;
   justify-content: center;
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .projects{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
 }
 
 #about {
