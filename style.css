@@ -130,6 +130,12 @@ h1{
      margin-right: 50px;
 }
 
+#projects{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
 #projects > h2{
   align-items: center;
   justify-content: center;
