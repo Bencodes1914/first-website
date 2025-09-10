@@ -130,6 +130,17 @@ h1{
      margin-right: 50px;
 }
 
+#projects > h2{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.projects{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
 #about {
     background-color: #f7f7f7;
     padding: 50px 0;
