@@ -118,8 +118,8 @@ h1{
     }
     
     .projects img {
-    width: 200px;
-    height: 200px;
+    width: 450px;
+    height: 450px;
     object-fit: cover;
     border-radius: 10px;
     margin-top: 10px;
