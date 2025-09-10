@@ -79,7 +79,11 @@ header nav a {
 }
 
 h1, h2 {
-    color: #333;
+    color: #ffffff;
+}
+
+h1{
+  font-weight: 900;
 }
 
 #home{
